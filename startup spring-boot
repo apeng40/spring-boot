@@ -1,0 +1,4 @@
+3 approach to start spring-boot project
+  1.run as spring boot in IDE
+  2.mvn spring-boot:run in project path
+  3.mvn install in project path to generate jar file, then use java -jar xxx.jar
