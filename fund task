@@ -1,0 +1,7 @@
+  2018-01-08
+1.openshift 环境已经申请好
+2.看openshift 能提供啥环境：activeMQ, mysql, tomcat(spring boot 环境)
+3.写excel或者其他格式的文件，发送到对应的邮箱，java mail sender(http://blog.csdn.net/clementad/article/details/51833416)
+4.通过基金代码找到重仓持有的股票(http://fund.eastmoney.com/f10/FundArchivesDatas.aspx?type=jjcc&code=003625&topline=15)
+5.通过股票代码查询涨跌(http://hq.sinajs.cn/list=sh601003,sh601001, http://hq.sinajs.cn/list=s_sh000001)
+5.1通过股票来查看涨跌(http://nufm3.dfcfw.com/EM_Finance2014NumericApplication/JS.aspx?type=CT&cmd=6037991,0024602,0024662,3004502,0022362,0023842,3001362,3003402,0026352,0024752,&sty=E1OQCPZT&st=z&sr=&p=&ps=&cb=&js=var%20js_fav={favif:[%28x%29]}&token=8a36403b92724d5d1dd36dc40534aec5&rt=0.6260835554606057)
